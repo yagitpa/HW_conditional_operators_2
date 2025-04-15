@@ -111,7 +111,7 @@ public class Main {
                 break;
             case 6:
             case 7:
-            case 8:
+            case 8: // месяц когда познакомился с любимой
                 System.out.println("Задача 5: " + monthNumber + "-й месяц относится к сезону Лето"); // Выводим если Лето
                 break;
             case 9:
